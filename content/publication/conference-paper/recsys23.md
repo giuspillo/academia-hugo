@@ -2,7 +2,7 @@
 title: "Towards Sustainability-aware Recommender Systems: Analyzing the Trade-off Between Algorithms Performance and Carbon Footprint"
 authors:
 - admin
-- Allgra De Filippo
+- Allegra De Filippo
 - Cataldo Musto
 - Michela Milano
 - Giovanni Semeraro
