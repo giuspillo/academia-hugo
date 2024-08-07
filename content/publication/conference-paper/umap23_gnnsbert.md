@@ -1,5 +1,5 @@
 ---
-title: "Combining Graph Neural Networks and Sentence Encoders for Knowledge-aware Recommendations"
+title: "Combining Graph Neural Networks and Sentence Encoders for Knowledge-aware Recommendations🏆"
 authors:
 - admin
 - Cataldo Musto
