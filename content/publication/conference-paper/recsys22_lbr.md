@@ -6,7 +6,7 @@ authors:
 - Marco de Gemmis
 - Pasquale Lops
 - Giovanni Semeraro
-date: "2023-09-14T00:00:00Z"
+date: "2022-09-14T00:00:00Z"
 doi: "10.1145/3604915.3608840"
 
 # Schedule page publish date (NOT publication's date).
